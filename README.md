@@ -10,10 +10,10 @@ Also tinkering with a Gameboy Color to make it into a pwnagotchi.  Because, also
 
 - 🌱 I’m [always] learning ...
 
-- Digital Forensics: this topic gives me zoomies and I've tried to rewrite this four times now to specify, but it's too hard to not write an essay, so.
-- Cloud gizmos and USB doodads
-- Extract ALL the things!  Find ALL the easter eggs!
-- Norwegian, Russian, Arabic
+Digital Forensics: this topic gives me zoomies and I've tried to rewrite this four times now to specify, but it's too hard to not write an essay, so.  
+Cloud gizmos and USB doodads  
+Extract ALL the things!  Find ALL the easter eggs!  
+Norwegian, Russian, Arabic
 
 
 <!--
