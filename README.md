@@ -1,5 +1,21 @@
 [![An image of @gnyniamh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gnyniamh)](https://holopin.io/@gnyniamh)
 
+
+
+
+- 🔭 I’m currently working on ...
+
+A Wardriving Miata!  Because, who doesn't want an XL RC car that's also an attackboi?
+Also tinkering with a Gameboy Color to make it into a pwnagotchi.  Because, also, why not.
+
+- 🌱 I’m [always] learning ...
+
+- Digital Forensics: this topic gives me zoomies and I've tried to rewrite this four times now to specify, but it's too hard to not write an essay, so.
+- Cloud gizmos and USB doodads
+- Extract ALL the things!  Find ALL the easter eggs!
+- Norwegian, Russian, Arabic
+
+
 <!--
 **morg0n/morg0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
