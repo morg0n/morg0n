@@ -6,10 +6,14 @@
 
 A Wardriving Miata!  Because, who doesn't want an XL RC car that's also an attackboi?
 Also tinkering with a Gameboy Color to make it into a pwnagotchi.  Because, also, why not.
+Also just tinkering with a pwnagotchi. 
+Also a Hakcat. 
+Also O.MG cables. 
+Things and stuff, mostly. 
 
 - 🌱 I’m [always] learning ...
 
-Digital Forensics: this topic gives me zoomies and I've tried to rewrite this four times now to specify, but it's too hard to not write an essay, so.  
+Digital Forensics: Forensic OSINT
 Cloud gizmos and USB doodads  
 Extract ALL the things!  Find ALL the easter eggs!  
 Norwegian, Russian, Arabic
