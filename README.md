@@ -1,7 +1,7 @@
 [![An image of @gnyniamh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gnyniamh)](https://holopin.io/@gnyniamh)
 
 
-
+[[Forensic OSINT Awards](https://ca.badgr.com/public/collections/61b5f56b54d54e7aba95cb1b97f934e6)]
 
 - 🔭 I’m currently working on ...
 
@@ -14,7 +14,7 @@ Things and stuff, mostly.
 
 - 🌱 I’m [always] learning ...
 
-Digital Forensics: Forensic OSINT
+Digital Forensics: Forensic OSINT  
 Cloud gizmos and USB doodads  
 Extract ALL the things!  Find ALL the easter eggs!  
 Norwegian, Russian, Swedish, Spanish
