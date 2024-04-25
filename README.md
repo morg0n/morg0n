@@ -2,6 +2,10 @@
 
 
 
+
+![Global Search Party - Forensic OSINT Badges]((https://api.ca.badgr.io/public/collections/61b5f56b54d54e7aba95cb1b97f934e6))
+
+
 - 🔭 I’m currently working on ...
 
 A Wardriving Miata!  Because, who doesn't want an XL RC car that's also an attackboi?
