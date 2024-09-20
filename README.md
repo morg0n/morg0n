@@ -6,10 +6,8 @@
 - 🔭 I’m currently working on ...
 
 A Wardriving Miata!  Because, who doesn't want an XL RC car that's also an attackboi?
-Also tinkering with a Gameboy Color to make it into a pwnagotchi.  Because, also, why not.
-Also just tinkering with a pwnagotchi. 
-Also a Hakcat. 
-Also O.MG cables. 
+Forensic OSINT research, reverse engineering vidya & apps, pwnagotchi/hakcat/o.mg cable things.
+Assisting with translation of resources into Russian & Norwegian.  
 Things and stuff, mostly. 
 
 - 🌱 I’m [always] learning ...
