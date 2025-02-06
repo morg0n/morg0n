@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on ...
 
-A Wardriving Miata!  Because, who doesn't want an XL RC car that's also an attackboi?
 Forensic OSINT research, reverse engineering vidya & apps, pwnagotchi/hakcat/o.mg cable things.
 Assisting with translation of resources into Russian & Norwegian.  
 Things and stuff, mostly. 
